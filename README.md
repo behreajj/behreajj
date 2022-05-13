@@ -1,8 +1,6 @@
-### Hi there 👋
+Please do not contact me about [Non-Fungible Tokens (NFTs)](https://www.youtube.com/watch?v=YQ_xWvX1n9g). I am not interested. Thanks.
 
 <!--
-**behreajj/behreajj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
